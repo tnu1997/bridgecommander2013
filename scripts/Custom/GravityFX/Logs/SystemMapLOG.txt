@@ -1,0 +1,7 @@
+#This is the dump of the LogCreator: <System Map Logger LogCreator_1IzPPFjyfpc3>
+#This log file was created on: 9:21:12.3000164032 of 15/February/2013, Friday
+########################################
+## -------------------- ##
+####################
+#######>>>9:21:12.3000164032 of 15/February/2013, Friday
+#>>>Initialized System Map logger

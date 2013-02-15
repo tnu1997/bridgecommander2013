@@ -1,0 +1,30 @@
+The lines immediately below specify how much Red, Green, and Blue there are in their respective aspects: Core Color, Glow Color, and Flare Color. 
+kCoreColor = App.TGColorA() 
+kCoreColor.SetRGBA(255.0 / 255.0, 255.0 / 255.0, 255.0 / 255.0, 1.0) 
+kGlowColor = App.TGColorA() 
+kGlowColor.SetRGBA(255.0 / 255.0, 255.0 / 255.0, 255.0 / 255.0, 1.0) 
+kFlareColor = App.TGColorA() 
+kFlareColor.SetRGBA(255.0 / 255.0, 255.0 / 255.0, 255.0 / 255.0, 1.0) 
+
+These lines all change aspects of the torpedo's physical makeup: 
+
+pTorp.CreateTorpedoModel( 
+"data/Textures/Tactical/TorpedoCore.tga", <-- Which core texture to use
+kCoreColor, <-- Tells BC to use the core color created above 
+0.0, <-- Specifies how large the core is in relation to the rest of the torpedo (core scale) 
+0.0, <-- Torpedo rotational rate (affects flares) 
+"data/Textures/Tactical/TorpedoGlow.tga", <-- Which glow texture is to be used 
+kGlowColor, <-- Tells BC to use the glow color created above 
+0.0, <-- Specifies the rate at which the glow will pulsate 
+0.0, <-- Gives the minimum size of the glow 
+0.0, <-- Gives the maximum size of the glow 
+"data/Textures/Tactical/TorpedoFlares.tga", <-- Which flare texture is to be used 
+kFlareColor, <-- Tells BC to use the flare color created above 
+0, <-- Number of flares the torpedo will have 
+0.0, <-- Length of the flares that the torpedo will spawn 
+0.0) <-- Amount of time that the individual flares will last 
+
+
+pTorp.SetDamage(GetDamage()) <-- Unimportant for now 
+pTorp.SetDamageRadiusFactor(0.0) <-- Sets radius of damage for the torpedo 
+

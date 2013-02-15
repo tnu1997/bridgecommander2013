@@ -1,0 +1,8 @@
+#This is the dump of the LogCreator: <Astrometrics Logger LogCreator_3t7l06k9F5YT>
+#This log file was created on: 9:21:12.3000164032 of 15/February/2013, Friday
+########################################
+## -------------------- ##
+####################
+#######>>>9:21:12.3000164032 of 15/February/2013, Friday
+#>>>Initialized Astrometrics logger
+#>>>Created Astro GUI

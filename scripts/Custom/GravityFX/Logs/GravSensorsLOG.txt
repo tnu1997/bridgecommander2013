@@ -1,0 +1,8 @@
+#This is the dump of the LogCreator: <Grav Sensors Logger LogCreator_WFS15gyXO3CQ>
+#This log file was created on: 9:21:12.3000164032 of 15/February/2013, Friday
+########################################
+## -------------------- ##
+####################
+#######>>>9:21:12.3000164032 of 15/February/2013, Friday
+#>>>Initialized Grav Sensors logger
+#>>>Created GSO GUI

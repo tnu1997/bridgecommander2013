@@ -1,0 +1,96 @@
+#This is the dump of the LogCreator: <Gravity Manager LogCreator_qy7r4GIt1DBz>
+#This log file was created on: 9:21:8 of 15/February/2013, Friday
+########################################
+## -------------------- ##
+####################
+#######>>>9:21:8 of 15/February/2013, Friday
+#>>>Initialized GravityManager_rywSjG72I8fr logger
+## -------------------- ##
+####################
+#######>>>9:21:12.3000164032 of 15/February/2013, Friday
+#>>>Creating Grav Wells: []
+#>>>Planets/Suns List: []
+#>>>Refreshed Ship List: ['Player']
+## -------------------- ##
+####################
+#######>>>9:21:21.1000499725 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+## -------------------- ##
+####################
+#######>>>9:22:31.1000823975 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'Frik', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+## -------------------- ##
+####################
+#######>>>9:22:39.3999710083 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+## -------------------- ##
+####################
+#######>>>9:22:43.5999069214 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'Nwyfre']
+## -------------------- ##
+####################
+#######>>>9:22:46.0998687744 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 6', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4']
+## -------------------- ##
+####################
+#######>>>9:23:25.4000606537 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'AnubisFlagship 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4']
+## -------------------- ##
+####################
+#######>>>9:25:6.39999628067 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4']
+## -------------------- ##
+####################
+#######>>>9:25:16.9000282288 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Player', 'Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'GalaxyDreadnought 1']
+## -------------------- ##
+####################
+#######>>>9:25:40.8999481201 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'USS Bravery', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'GalaxyDreadnought 1']
+## -------------------- ##
+####################
+#######>>>9:25:41.7999343872 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrulmgar', 'Hrirghild', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'GalaxyDreadnought 1']
+## -------------------- ##
+####################
+#######>>>9:25:42.8999176025 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Hrirghild', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'GalaxyDreadnought 1']
+## -------------------- ##
+####################
+#######>>>9:25:49.099822998 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 3', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'GalaxyDreadnought 1']
+## -------------------- ##
+####################
+#######>>>9:25:53.7997512817 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'UpgradedHatak 2', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'GalaxyDreadnought 1']
+## -------------------- ##
+####################
+#######>>>9:26:1.80000030994 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'Rodi', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'GalaxyDreadnought 1']
+## -------------------- ##
+####################
+#######>>>9:26:6.4999961853 of 15/February/2013, Friday
+#>>>Refreshed Ship List: ['Allaug', 'UpgradedHatak 7', 'UpgradedHatak 1', 'ONeill 9', 'AncientCity 1', 'ONeill 7', 'ONeill 8', 'ONeill 12', 'UpgradedHatak 5', 'ONeill 11', 'USS Sphinx', 'ONeill 10', 'USS Opportunity', 'UpgradedHatak 4', 'GalaxyDreadnought 1']
